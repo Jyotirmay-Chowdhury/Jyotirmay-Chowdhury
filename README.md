@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyotirmay  Badal Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Chowdhury Jyotirmay  Badal </h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
