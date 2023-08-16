@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chowdhury Jyotirmay  Badal </h1>
+<h1 align="center">Hi 👋, I'm  Jyotirmay Chowdhury</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/jyotirmay_56" target="blank"><img src="https://img.shields.io/twitter/follow/jyotirmay_56?logo=twitter&style=for-the-badge" alt="jyotirmay_56" /></a> </p>
 
-- 🌱 I’m currently learning **At Pillai College Arts Science Commerce, Rasayani,  DevOps ALL Skills**
+- 🌱 I’m currently learning **DevOps ALL Skills**
 
 - 👨‍💻 All of my projects are available at [https://jyotirmaychowdhury.pages.dev/](https://jyotirmaychowdhury.pages.dev/)
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **chowdhuryjyobad21hbcs@student.mes.ac.in**
+- 📫 How to reach me **depeshchowdhury001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
