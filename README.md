@@ -16,18 +16,9 @@
 
 - 📫 How to reach me **depeshchowdhury001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Portfolio All Links Connect with me:-</h3>
 <p align="left">
-<a href="https://dev.to/jyotirmaychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jyotirmaychowdhury" height="30" width="40" /></a>
-<a href="https://twitter.com/jyotirmay_56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotirmay_56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jyotirmay-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotirmay-chowdhury" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jyotirmay56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jyotirmay56" height="30" width="40" /></a>
-<a href="https://medium.com/@jyotirmay_chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jyotirmay_chowdhury" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/joy_coder23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="joy_coder23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jyotirmay_56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jyotirmay_56" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jyotirmaychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jyotirmaychowdhury" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jyotirmaychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jyotirmaychowdhury" height="30" width="40" /></a>
-<a href="/https://www.joyduniya.in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.joyduniya.in/" height="30" width="40" /></a>
+<a href="https://bio.link/jyotirmay">Portfolio All Links Click Here </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
