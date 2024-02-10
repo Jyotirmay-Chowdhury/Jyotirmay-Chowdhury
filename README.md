@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jyotirmaychowdhury.pages.dev/](https://jyotirmaychowdhury.pages.dev/)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **FullsStack and Cloud Computing and Webservices**
 
 - 📫 How to reach me **depeshchowdhury001@gmail.com**
 
